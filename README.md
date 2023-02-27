@@ -39,5 +39,12 @@ superscript<sup>Lorem Ipsum is simply dummy text of the printing and typesetting
 * It was
 * popularised in the
 * 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<html>
+  <head><title>TITLE</title></head>
+  <body>
+    <h1>This is code block of html documentation</h1>
+  </body>
+  </html>
+
 
 Thank you 
