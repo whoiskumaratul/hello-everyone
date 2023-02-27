@@ -48,6 +48,10 @@ superscript<sup>Lorem Ipsum is simply dummy text of the printing and typesetting
 
 My favourite website is [Hacking Truth](https://www.hackingtruth.org "It's so powerful and useful website").
 
+<https://www.hackingtruth.in>
+
+<kumaratuljaiswal222@gmail.com>
+
 Hey dude,
 
 
