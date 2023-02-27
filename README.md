@@ -27,4 +27,13 @@ superscript<sup>Lorem Ipsum is simply dummy text of the printing and typesetting
 > 
 >> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
+1. It has
+2. survived
+3. not
+4. only 
+
+- five centuries,
+- but also the leap into electronic typesetting,
+- remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 Thank you 
